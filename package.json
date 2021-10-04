@@ -1,0 +1,22 @@
+{
+  "name": "vrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "10.14.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+  }
+}
